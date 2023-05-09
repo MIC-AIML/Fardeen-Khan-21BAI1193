@@ -27,8 +27,7 @@ Install using the following command
 -> Run the cells to view the results.
 
 ### REFERENCES
-1. Kaggle - 'insurance.csv' was downloaded from Kaggle. 
-Referenced data visualization from Kaggle.
+1. Kaggle - 'insurance.csv' dataset was downloaded from Kaggle.
 2. Gradio Docs - To implement the interface for the ML model.
 
 **Further improvements are in progress to get a better performance metric and improve the prediction score**
